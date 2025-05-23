@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RishiShah25
-- 👀 I’m interested in Machine Learning/ Data Science.
+- 👀 I’m interested in MERN stack/Machine Learning/ Data Science.
 - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
